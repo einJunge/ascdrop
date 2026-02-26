@@ -14,18 +14,18 @@
 
 ## 🚀 Instalación rápida
 
-```bash
-# Clonar repositorio
-git clone https://github.com/tuusuario/ASCDROP.git
-cd ASCDROP
+📊 Logs
+Accede en /logserver (solo amatique). Los logs rotan automáticamente a 5MB.
 
-# Instalar dependencias
-pip install -r requirements.txt
+🔧 Personalización
+Cambiar usuarios: Edita USERS en app.py
 
-# Crear carpeta static para logo
-mkdir static
-# Copiar tu logo como static/logo.png
+Logo: Reemplaza static/logo.png
 
-# Ejecutar
-python ascdrop.py
+Colores: Modifica los gradientes CSS en las plantillas
 
+📄 Licencia
+MIT License - © 2026 ASCITGROUP - Marcos Hernández
+
+
+[![LinkedIn - Marcos Hernández](https://img.shields.io/badge/LinkedIn-Marcos%20Hern%C3%A1ndez-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosh1488/)
