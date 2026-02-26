@@ -46,3 +46,11 @@ __________________________
 
 # Ejecutar
 python ascdrop.py 
+
+🌐 Accede en: http://IP:5000
+
+| Usuario       | Contraseña | Permisos Logs |
+| --------      | ---------- | ------------- |
+| Administrador | admin      | ✅ Admin       |
+| Gerencia      | admin      | ❌ Usuario     |
+| Invitado      | root       | ❌ Usuario     |
