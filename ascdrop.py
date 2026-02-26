@@ -11,14 +11,14 @@ app.secret_key = secrets.token_hex(16)
 
 UPLOAD_FOLDER = "storage"
 LOG_FILE = "activity.log"
-MAX_LOG_SIZE_MB = 5
+MAX_LOG_SIZE_MB = 10
 
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
 USERS = {
     "Administrador": "admin",
-    "Gerencia": "admin123",
-    "Invitado": "root"
+    "Gerencia": "root",
+    "Invitado": "Admin123"
 }
 
 # ================= TEMPLATES =================
@@ -132,7 +132,7 @@ LOGIN_HTML = """
 </head>
 <body>
     <div class="box">
-        <img src="/static/logo.png" alt="ASCITGROUP" class="logo">
+        <img src="https://www.ascitgroup.com/wp-content/uploads/2024/02/end-asc-fix-e1708545829815.png" alt="ASCITGROUP" class="logo">
         <h2>ASCDROP</h2>
         <div class="subtitle">Transferencia segura de archivos</div>
         <form method="POST">
