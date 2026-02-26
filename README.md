@@ -12,7 +12,8 @@ ASCDROP - Secure File Transfer by ASCITGROUP
 • Branding profesional ASCITGROUP
 
 🚀 Listo para producción en 1 minuto:
-pip install -r requirements.txt && python app.py
+pip install -r requirements.txt && python app.py[configuracion.txt](https://github.com/user-attachments/files/25582840/configuracion.txt)
+
 
 👤 Creador: Marcos Hernández
 🌐 https://linkedin.com/in/marcosh1488/
