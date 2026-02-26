@@ -43,4 +43,4 @@ mkdir static
 # Copiar tu logo como static/logo.png
 
 # Ejecutar
-python app.py 
+python ascdrop.py 
