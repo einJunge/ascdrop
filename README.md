@@ -20,7 +20,7 @@
 
 
 ##📊 Logs
-Accede en /logserver (solo amatique). Los logs rotan automáticamente a 5MB.
+Accede en /logserver (solo el usuario Administrador). Los logs rotan automáticamente a 10MB. (se puede cambiar segun a preferencia)
 
 <img width="1248" height="253" alt="image" src="https://github.com/user-attachments/assets/5697f410-f4f7-4fe4-8aee-f2b7cba717fc" />
 
