@@ -7,7 +7,7 @@
 
 ## ✨ Características
 
-- 🔐 **Autenticación segura** (usuarios: amatique/admin, Gerencia/admin, Invitado/root)
+- 🔐 **Autenticación segura** (usuarios: Administrador/admin, Gerencia/root, Invitado/Admin123)
 - 📤 **Subida múltiple** de archivos y carpetas (ZIP automático)
 - 📥 **Descarga segura** con logs
 - 🗑️ **Eliminación auditada** con confirmación
