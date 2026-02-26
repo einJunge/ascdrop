@@ -12,9 +12,8 @@
 - 🎨 **Branding profesional** ASCITGROUP
 - 📱 **Responsive** y moderno UI
 
-## 🚀 Instalación rápida
 
-📊 Logs
+##📊 Logs
 Accede en /logserver (solo amatique). Los logs rotan automáticamente a 5MB.
 
 🔧 Personalización
@@ -29,3 +28,19 @@ MIT License - © 2026 ASCITGROUP - Marcos Hernández
 
 
 [![LinkedIn - Marcos Hernández](https://img.shields.io/badge/LinkedIn-Marcos%20Hern%C3%A1ndez-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosh1488/)
+
+## 🚀 Instalación rápida
+```bash
+# Clonar repositorio
+git clone https://github.com/tuusuario/ASCDROP.git
+cd ASCDROP
+
+# Instalar dependencias
+pip install -r requirements.txt
+
+# Crear carpeta static para logo
+mkdir static
+# Copiar tu logo como static/logo.png
+
+# Ejecutar
+python app.py 
