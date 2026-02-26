@@ -2,6 +2,9 @@
 **ASCDROP** es una aplicación web segura para transferencia de archivos desarrollada por **ASCITGROUP**. 
 🔒 Plataforma web profesional para transferencia segura de archivos con auditoría completa.
 
+<img width="1275" height="556" alt="image" src="https://github.com/user-attachments/assets/60daef82-a9a3-4b13-abb8-4f1ba330f7a4" />
+
+
 ## ✨ Características
 
 - 🔐 **Autenticación segura** (usuarios: amatique/admin, Gerencia/admin, Invitado/root)
@@ -12,9 +15,15 @@
 - 🎨 **Branding profesional** ASCITGROUP
 - 📱 **Responsive** y moderno UI
 
+<img width="1361" height="588" alt="image" src="https://github.com/user-attachments/assets/65bda836-0ff2-41b5-89db-b823d62b8492" />
+
+
 
 ##📊 Logs
 Accede en /logserver (solo amatique). Los logs rotan automáticamente a 5MB.
+
+<img width="1248" height="253" alt="image" src="https://github.com/user-attachments/assets/5697f410-f4f7-4fe4-8aee-f2b7cba717fc" />
+
 
 🔧 Personalización
 Cambiar usuarios: Edita USERS en app.py
