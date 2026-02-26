@@ -41,6 +41,8 @@ pip install -r requirements.txt
 # Crear carpeta static para logo
 mkdir static
 # Copiar tu logo como static/logo.png
+Esta configuracion es (opcional)
+__________________________
 
 # Ejecutar
 python ascdrop.py 
