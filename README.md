@@ -1,20 +1,31 @@
-ASCDROP - Secure File Transfer by ASCITGROUP
 
+**ASCDROP** es una aplicación web segura para transferencia de archivos desarrollada por **ASCITGROUP**. 
 🔒 Plataforma web profesional para transferencia segura de archivos con auditoría completa.
 
-✨ Características principales:
-• Autenticación multiusuario (Admin + roles)
-• Subida múltiple de archivos y carpetas (ZIP auto)
-• Descarga y eliminación con logs detallados
-• Panel de auditoría (solo administrador)
-• Diseño responsive cyber-security moderno
-• Logs rotativos automáticos (5MB)
-• Branding profesional ASCITGROUP
+## ✨ Características
 
-🚀 Listo para producción en 1 minuto:
-pip install -r requirements.txt && python app.py[configuracion.txt](https://github.com/user-attachments/files/25582840/configuracion.txt)
+- 🔐 **Autenticación segura** (usuarios: amatique/admin, Gerencia/admin, Invitado/root)
+- 📤 **Subida múltiple** de archivos y carpetas (ZIP automático)
+- 📥 **Descarga segura** con logs
+- 🗑️ **Eliminación auditada** con confirmación
+- 📊 **Sistema de logs** rotativos (solo admin)
+- 🎨 **Branding profesional** ASCITGROUP
+- 📱 **Responsive** y moderno UI
 
+## 🚀 Instalación rápida
 
-👤 Creador: Marcos Hernández
-🌐 https://linkedin.com/in/marcosh1488/
-🏢 ASCITGROUP - Protegiendo su infraestructura IT
+```bash
+# Clonar repositorio
+git clone https://github.com/tuusuario/ASCDROP.git
+cd ASCDROP
+
+# Instalar dependencias
+pip install -r requirements.txt
+
+# Crear carpeta static para logo
+mkdir static
+# Copiar tu logo como static/logo.png
+
+# Ejecutar
+python ascdrop.py
+
