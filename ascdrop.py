@@ -319,7 +319,7 @@ PANEL_HTML = """
 </head>
 <body>
     <div class="header">
-        <img src="/static/logo.png" alt="ASCITGROUP" class="logo">
+        <img src="https://www.ascitgroup.com/wp-content/uploads/2024/02/end-asc-fix-e1708545829815.png" alt="ASCITGROUP" class="logo">
         <div>
             <div class="title">ASCDROP</div>
         </div>
@@ -466,7 +466,7 @@ LOG_SERVER_HTML = """
 </head>
 <body>
     <div class="header">
-        <img src="/static/logo.png" alt="ASCITGROUP" class="logo">
+        <img src="https://www.ascitgroup.com/wp-content/uploads/2024/02/end-asc-fix-e1708545829815.png" alt="ASCITGROUP" class="logo">
         <div>
             <h1>ASCDROP - Audit Logs</h1>
             <div class="subtitle">Sistema de auditoría administrativa</div>
